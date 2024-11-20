@@ -1,5 +1,7 @@
 body{
     font-family: "Trebuchet MS", Helvetica, sans-serif;
+    background-color: rgb(245, 229, 88); /* Replace 'lightblue' with your desired color */
+
 }
 p{
     font-size:20px;
